@@ -1,5 +1,5 @@
 source :rubygems
 
-gem "vagrant", "~> 1.0.3"
-gem "veewee", ">= 0.3.0.alpha"
+gem "vagrant", "~> 1.0.5"
+gem "veewee", :git => "git://github.com/jedi4ever/veewee.git", :ref => "28b04d061a"
 gem "rake"
